@@ -1,7 +1,7 @@
 ## ✨ _Welcome to my GitHub profile!_ ✨  
 
-### About Me  
-<div><h1 align="center">Hi 👋, I'm Christian Jay Salonoy</h1></div>
+## About Me  
+### Hi 👋, I'm Christian Jay Salonoy
 🌱 I’m currently learning **React** to enhance my front-end development skills.  
 💻 I have experience building websites using **Laravel, PHP, Bootstrap, and MySQL**.  
 🚀 Passionate about creating **dynamic and responsive web applications**.  
