@@ -1,5 +1,6 @@
 ## ✨ _Welcome to my GitHub profile!_ ✨ 
-
+# About me
+🌱 I’m currently learning **React** to enhance my front-end development skills. 
 <!--
 **ChanChans5/ChanChans5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
