@@ -3,7 +3,7 @@
 ## About Me  
 ### Hi 👋, I'm Christian Jay Salonoy
 🌱 I’m currently learning **React** to enhance my front-end development skills.  
-💻 I have experience building websites using **Laravel, PHP, Bootstrap, Tailwind, and MySQL**.  
+💻 I have experience building websites using **Laravel, PHP, Javascript, Bootstrap, Tailwind, and MySQL**.  
 🚀 Passionate about creating **dynamic and responsive web applications**.  
 📚 Always eager to learn new technologies and improve my skills.  
 
