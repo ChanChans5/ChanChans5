@@ -1,5 +1,3 @@
-## ✨ _Welcome to my GitHub profile!_ ✨  
-
 ## About Me  
 ### Hi 👋, I'm Christian Jay Salonoy
 🌱 I’m currently learning **React** to enhance my front-end development skills.  
