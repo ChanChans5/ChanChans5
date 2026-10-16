@@ -1,5 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="500">
-<br><br>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="500" alt="Animated GIF">
+</div>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
